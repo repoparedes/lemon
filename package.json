@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/repoparedes/lemon/issues"
   },
-  "homepage": "https://github.com/repoparedes/lemon#readme"
+  "homepage": "https://github.com/repoparedes/lemon#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
